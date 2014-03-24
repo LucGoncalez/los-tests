@@ -11,6 +11,13 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 
 ## Revisões ##
 
+* **detecmem-v0.2:** Para implementação de funções de detecção de memória.
+Requisitos:
+
+```
+LibLOS16.build-004
+```
+
 * **detecmem-v0.1:** Para implementação de funções de detecção de memória.
 Requisitos:
 
