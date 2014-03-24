@@ -11,6 +11,13 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 
 ## Revisões ##
 
+* **deteccrt-v0.1:** Para implementação de funções de detecção de vídeo.
+Requisitos:
+
+```
+LibLOS16.build-002
+```
+
 * **deteccpu-v0.1:** Para implementação de funções de detecção da CPU.
 Requisitos:
 
