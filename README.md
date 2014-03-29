@@ -11,6 +11,13 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 
 ## Revisões ##
 
+* **a20-v0.1:** Para implementação de funções de A20.
+Requisitos:
+
+```
+LibLOS16.build-010
+```
+
 * **pkernel-v0.1:** Para teste da implementação do bootloader.
 Requisitos:
 
