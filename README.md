@@ -11,6 +11,13 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 
 ## Revisões ##
 
+* **pkernel-v0.2:** Para teste da implementação do loadlos-v0.9.
+Requisitos:
+
+```
+LibLOS16.build-011
+```
+
 * **a20-v0.1:** Para implementação de funções de A20.
 Requisitos:
 
